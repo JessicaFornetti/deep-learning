@@ -23,5 +23,5 @@ A number of models are developped and compared:
 
 # Task 2: Image Classification Using Transfer Learning
 
-Transfer learning project on CIFAR-100 image dataset, to predict the associated class in TensorFlow Python. The dataset was randomly split into 2 blocks. Block 1 was used to build various CNN models with the same architecture but varying activation functions, loss functions and the use or not of skip connection as well as an auto encoder model. Transfer learning was applied for block 2 images for the best CNN and auto encoder models, whose weights were saved and then loaded into a demo Jupyter notebook.
+This project uses Tensorflow to predict the image class using the [CIFAR-100 image dataset](https://www.cs.toronto.edu/%7Ekriz/cifar.html). The dataset was randomly split into 2 blocks. Block 1 was used to build various CNN models with the same architecture but varying activation functions, loss functions and the use or not of skip connection as well as an auto encoder model. Transfer learning was applied for block 2 images for the best CNN and auto encoder models, whose weights were saved and then loaded into the demo notebook.
 
