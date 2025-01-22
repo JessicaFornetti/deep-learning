@@ -5,6 +5,8 @@ This project is divided into 2 main tasks:
 - Task 1: Song Genre Prediction
 - Task 2: Image Classification Using Transfer Learning
 
+This project was completed as part of the course Master of Science in Computer Science (Data Science) at TU Dublin, Ireland.
+
 # Project Overview
 This repository contains 3 notebooks, one for [task 1](Deep%20Leaning%20-%20Task%201%20-%20Song%20Genre%20Prediction.ipynb), [task 2](Deep%20Learning%20-%20Task%202%20-%20Image%20Classification%20Using%20Transfer%20Learning.ipynb) and a [demo notebook](Demo%20Notebook.ipynb) to test out the saved models on the test set. 
 
